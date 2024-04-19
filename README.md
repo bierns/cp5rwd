@@ -4,3 +4,4 @@ Herbert Santos de Sousa RM: 553227: Contribuiu com criação do componente Cadas
 Murillo Carvalho RM: 550551: Contribuiu com o desenvolvimento do CSS
 Isabelle Cristina Santos Queiroz RM:554073 Contribui com alguns detahes da home page 
 Lucas Martinez Lopes RM553816: contribuiu com a seleção da paleta de cores e criação do componente login e estilização do mesmo
+Gabriel Oliveria R Santos RM553079: Partes logicas e aplicação da API
